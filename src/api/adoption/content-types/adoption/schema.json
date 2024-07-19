@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "adoptions",
+  "info": {
+    "singularName": "adoption",
+    "pluralName": "adoptions",
+    "displayName": "Adoptions"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
